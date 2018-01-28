@@ -1,2 +1,2 @@
-Androidアプリ「画面のQRリーダー」のページ
-https://baiteen.github.io/ScreenQrReader/
+Androidアプリ「レジごっこ遊び」のページ
+https://baiteen.github.io/Regi/
